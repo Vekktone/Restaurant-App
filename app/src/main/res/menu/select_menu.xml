@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/reg_menu"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/reg_menu" />
+    <item android:id="@+id/tDay_Menu"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/tDay_menu" />
+    <item android:id="@+id/nutrition"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/nutrition" />
+    <item android:id="@+id/store_locator"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/store_locator" />
+
+</menu>

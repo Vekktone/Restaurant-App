@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BillMiller</string>
+
+    <string name="question_text">
+        Welcome to the official Bill Miller Bar-B-Q App! Made by Riley Marfin
+    </string>
+    <string name="yes_button">
+        Yes
+    </string>
+    <string name="no_button">
+        No
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="yes_toast">Great! Lets get started then.</string>
+    <string name="no_toast">Okay. Have a happy Thanksgiving!</string>
+    <string name="reg_menu">Food Menu</string>
+    <string name="tDay_menu">T-Day Menu</string>
+    <string name="nutrition">Nutrition Calculator</string>
+    <string name="store_locator">Store Locator</string>
+    <string name="title_activity_display_food">DisplayFoodActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_t_day_menu">tDayMenu</string>
+    <string name="title_activity_nutrition_calculator">nutritionCalculator</string>
+    <string name="title_activity_store_loc">storeLoc</string>
+    <string name="menu_intro">This is our holiday menu. We cater for office parties and family meals!</string>
+    <string name="TurkeyHen">9 - 11 lbs. (raw weight) Turkey Hen (cooked and chilled) with 1/2 gallon Cornbread Dressing (ready to be baked) and 1 quart Giblet Gravy (ready to be heated) ... $42.99</string>
+    <string name="TurkeyTom">17 - 19 lbs. (raw weight) Turkey Tom (cooked and chilled) with 1 gallon Cornbread Dressing (ready to be baked) and 1/2 gallon Giblet Gravy (ready to be heated) ... $74.99</string>
+    <string name="Ham">Sold by the half (approximately 7 - 10 lbs.) ... $49.99</string>
+    <string name="Small">Turkey Hen, HOT AND CARVED - or - 3.5 lbs. Sliced Turkey Breast (HOT), 2 quarts cornbread dressing, 1 quart giblet gravy, 2 quarts green beans OR 2 quarts mashed potatoes, 1 dozen dinner rolls, 1 9" fresh baked pie, 1 bucket iced tea, plates, cups and set ups for 10
+(Only $8.50 per person + tax) ... $85.00</string>
+    <string name="Large">Turkey Tom - or - 1/2 Honey-glazed spiral cut ham, HOT AND CARVED - or - 7 lbs. Sliced Turkey Breast (HOT), 4 quarts cornbread dressing, 2 quarts giblet gravy, 4 quarts green beans OR 4 quarts mashed potatoes, 2 dozen dinner rolls, 2 9" fresh baked pies, 2 buckets iced tea, plates, cups and set ups for 20\n(Only $7.50 per person + tax) ... $150.0</string>
+    <string name="Pie">Meringue ... $6.49\nApple ... $7.49\nSugar Free Lemon ...$9.49\nPumpkin... $9.49\nPecan ... $9.49</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="compose_email">Compose Email</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
